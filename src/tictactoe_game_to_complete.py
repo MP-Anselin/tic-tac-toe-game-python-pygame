@@ -1,5 +1,5 @@
 from pygame.locals import *
-from src.algorithm.tictactoeAlgorithm import *
+from algorithm.tictactoeAlgorithm import *
 
 # initialize global variables
 XO = 'x'  # <-- Variable to know which player are playing
